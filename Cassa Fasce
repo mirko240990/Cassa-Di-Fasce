@@ -1,0 +1,150 @@
+<type name="SeaChest">
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Yellow" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Orange" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Red" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Green" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Pink" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Blue" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <cargo chance="1">
+            <item name="Armband_Black" />
+        </cargo>
+        <hoarder />
+    </type>
